@@ -9,7 +9,14 @@
 
 To use the OSXCursor, follow these steps:
 
-1. Download the App.
-2. Replace the APP's FILE.
-3. Syntax might be corrupted, check the Youtube channel of Sen (@TheRealBroFTW).
+1. Download the latest release (coming soon!)
+2. Extract.
+3. Place in Roblox's Location in "Resources"
+4. Open the folder and place any selected MOD MENU of your choice.
+5. Insert the Mod Menu.
+6. If your just using a Experience Mod, then you will do the same thing before with the mod menu.
 
+#Notices
+Mod Menus can get you banned.
+Experience Mod can not get you banned.
+## USE AT YOUR OWN RISK!!
